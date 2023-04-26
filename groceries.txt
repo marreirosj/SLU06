@@ -1,0 +1,5 @@
+cheese
+ham
+juice
+beer
+bread
