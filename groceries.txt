@@ -2,4 +2,6 @@ cheese
 ham
 juice
 beer
-breadbutterbutter
+bread
+butter
+eggs
